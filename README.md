@@ -40,3 +40,9 @@ commit message要求："docs(文本类型): 文本名称"
 - docs(角色): 胡桃
 - docs(圣遗物): 千岩牢固
 - ... (待补充)
+
+## 内容索引
+
+- [圣遗物](./artifacts/README.md)
+- [书本](./books/README.md)
+- [角色](./characters/README.md)
