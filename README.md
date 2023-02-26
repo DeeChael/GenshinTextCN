@@ -12,6 +12,14 @@
 - 物品介绍
 - ...
 
+## 参考内容
+
+[【哔哩哔哩游戏 原神wiki】](https://wiki.biligame.com/ys)
+
+[【Fandom Genshin Impect wiki】](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
+
+[【米游社观测枢wiki】](https://bbs.mihoyo.com/ys/obc/)
+
 ## 贡献
 
 欢迎所有人参与贡献！但是请确保你贡献的内容源自游戏，并非主观文本内容或是其他玩家推理出来的官方还未证实的内容
